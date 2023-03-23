@@ -6,8 +6,8 @@ import time
 import signal
 
 #SETTING
-#worker 'pnx' or 'rtx'
-worker	= 'pnx'
+#worker 'pnx' or 'trx'
+worker	= 'trx'
 cfgs 	= {
 		'pnx': {'cmd': 'python3.4'},
 		'trx': {'cmd': ['python3.4', '--config', 'config.txt']}
